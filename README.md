@@ -1,5 +1,7 @@
 # gopacket
 
+By Jacob Paullus ([@psycep_](https://x.com/psycep_))
+
 A complete Go implementation of [Impacket](https://github.com/fortra/impacket) - 63 tools and 24 library packages for Windows network protocol interaction, Active Directory enumeration, and attack execution. Built as a native Go framework so you can compile once and run anywhere without Python dependencies.
 
 > **Beta Release - Highly Experimental.** gopacket is under active development. Core tools have been tested against Active Directory lab environments, but edge cases and protocol quirks are expected. If something isn't working, please test the same operation with Impacket side-by-side and include both outputs in your bug report. This helps us quickly identify whether it's a gopacket-specific issue or a shared protocol limitation.
